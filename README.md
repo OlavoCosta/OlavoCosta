@@ -9,11 +9,8 @@ Olá, meu nome é Olavo, e é um prazer compartilhar um pouco sobre quem eu sou 
 Um marco importante em minha jornada foi a conclusão de uma especialização na renomada Harvard University, onde me aprofundei nos fundamentos da Ciência da Computação por meio do curso "Introduction to Computer Science". Esse experiência proporcionou uma base sólida e uma perspectiva abrangente sobre as tecnologias emergentes e tendências do setor.
 
 Minha paixão por aprender e inovar me impulsiona a buscar oportunidades que me permitam aplicar na prática o que aprendi. Estou ansioso para contribuir ativamente no campo da tecnologia, enfrentar desafios e continuar crescendo profissionalmente. Se você procura alguém comprometido com o constante desenvolvimento e apaixonado por soluções inovadoras, estou pronto para abraçar novas oportunidades e agregar valor ao ambiente de trabalho.</p>&nbsp;
- 
  &nbsp;
  &nbsp;
-
-
 
 ## My Skills
 
