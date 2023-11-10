@@ -62,10 +62,8 @@ Minha paixão por aprender e inovar me impulsiona a buscar oportunidades que me 
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/_olavocoosta/?hl=pt-br" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" />
-</a>
+<a href="https://www.instagram.com/_olavocoosta/?hl=pt-br" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://www.linkedin.com/in/olavo-costa-25398b240/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
 </div>&nbsp;&nbsp;
-  
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
